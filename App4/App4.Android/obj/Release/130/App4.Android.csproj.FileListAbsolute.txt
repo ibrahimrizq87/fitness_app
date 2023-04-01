@@ -1,0 +1,960 @@
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\bin\Release\App4.Android.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\bin\Release\App4.Android.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\bin\Release\com.companyname.app4.apk
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\bin\Release\com.companyname.app4.aab
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\bin\Release\com.companyname.app4-Signed.aab
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\bin\Release\com.companyname.app4-Signed.apk
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\bin\Release\com.companyname.app4-Signed.apk.idsig
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\bin\Release\App4.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\bin\Release\App4.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\MonoAndroid,Version=v13.0.AssemblyAttributes.cs
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\build.props
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\adb.props
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\App4.Android.csproj.AssemblyReference.cache
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\stamp\_BuildLibraryImportsCache.stamp
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\res.flag
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\lp\55\jl\files.cache
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\lp\62\jl\files.cache
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\lp\63\jl\files.cache
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\lp\68\jl\files.cache
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\lp\69\jl\files.cache
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\lp\75\jl\files.cache
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\lp\88\jl\files.cache
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\lp\89\jl\files.cache
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\lp\90\jl\files.cache
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\lp\91\jl\files.cache
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\lp\92\jl\files.cache
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\lp\93\jl\files.cache
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\lp\96\jl\files.cache
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\lp\97\jl\files.cache
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\lp\98\jl\files.cache
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\lp\99\jl\files.cache
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\R.txt
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\R.cs.flag
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\App4.Android.csproj.CoreCompileInputs.cache
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\App4.Android.csproj.CopyComplete
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\App4.Android.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\App4.Android.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\bin\com.companyname.app4.apk
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\bin\base.zip
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\bin\com.companyname.app4.aab
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\bin\com.companyname.app4.apks
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\res\values\styles.xml
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\res\values\colors.xml
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\res\mipmap-anydpi-v26\icon.xml
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\res\mipmap-anydpi-v26\icon_round.xml
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\res\mipmap-hdpi\icon.png
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\res\mipmap-hdpi\launcher_foreground.png
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\res\mipmap-mdpi\icon.png
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\res\mipmap-mdpi\launcher_foreground.png
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\res\mipmap-xhdpi\icon.png
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\res\mipmap-xhdpi\launcher_foreground.png
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\res\mipmap-xxhdpi\icon.png
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\res\mipmap-xxhdpi\launcher_foreground.png
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\res\mipmap-xxxhdpi\icon.png
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\res\mipmap-xxxhdpi\launcher_foreground.png
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\res\drawable\heart.png
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\res\drawable\fire.jpg
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\res\drawable\background.png
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\res\drawable\steps.jpg
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\res\drawable\target.png
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\res\drawable\target2.png
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\res\drawable\treadmill.jpg
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\res\drawable\aaa.jpg
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\uploadflags.txt
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\resolvedassemblies.hash
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\link.flag
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\App4.Android.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\App4.Android.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\App4.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\App4.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\CommunityToolkit.Mvvm.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\CommunityToolkit.Mvvm.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\FormsViewGroup.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\FormsViewGroup.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Google.Api.CommonProtos.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Google.Api.CommonProtos.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Google.Protobuf.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Google.Protobuf.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Java.Interop.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Java.Interop.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Mono.Android.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Mono.Android.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Mono.Security.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Mono.Security.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\mscorlib.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\mscorlib.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Newtonsoft.Json.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\SendGrid.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\SendGrid.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\SQLite-net.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\SQLitePCLRaw.batteries_v2.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\SQLitePCLRaw.core.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\SQLitePCLRaw.lib.e_sqlite3.android.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\StarkbankEcdsa.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\System.Buffers.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\System.ComponentModel.DataAnnotations.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\System.ComponentModel.DataAnnotations.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\System.Core.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\System.Core.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\System.Data.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\System.Data.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\System.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\System.Drawing.Common.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\System.Drawing.Common.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\System.Net.Http.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\System.Net.Http.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\System.Numerics.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\System.Numerics.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\System.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\System.Runtime.Serialization.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\System.Runtime.Serialization.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\System.ServiceModel.Internals.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\System.ServiceModel.Internals.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\System.Xml.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\System.Xml.Linq.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\System.Xml.Linq.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\System.Xml.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Activity.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Activity.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.AppCompat.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.AppCompat.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.CardView.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.CardView.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Core.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Core.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.CustomView.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.CustomView.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Fragment.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Fragment.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Loader.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Loader.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.RecyclerView.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.SavedState.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.SavedState.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.ViewPager.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.ViewPager.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.Essentials.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.Essentials.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.Forms.Core.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.Forms.Core.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.Forms.Platform.Android.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.Forms.Platform.Android.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.Forms.Platform.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.Forms.Xaml.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.Forms.Xaml.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.Google.Android.Material.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.Google.Android.Material.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\typemaps.armeabi-v7a.ll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\typemaps.arm64-v8a.ll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\AndroidManifest.xml
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\AndroidManifest.xml
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\__environment__.txt
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\mono\MonoRuntimeProvider.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\assets\machine.config
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\bin\mono.android.jar
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\static.flag
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\buildid.txt
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\environment.armeabi-v7a.ll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\environment.arm64-v8a.ll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\androidx\annotation\experimental\R.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\androidx\appcompat\R.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\androidx\appcompat\resources\R.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\androidx\browser\R.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\androidx\cardview\R.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\androidx\constraintlayout\widget\R.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\androidx\coordinatorlayout\R.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\androidx\core\R.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\androidx\drawerlayout\R.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\androidx\fragment\R.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\androidx\lifecycle\runtime\R.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\androidx\lifecycle\viewmodel\R.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\androidx\media\R.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\androidx\navigation\common\R.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\androidx\navigation\R.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\androidx\navigation\ui\R.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\androidx\preference\R.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\androidx\recyclerview\R.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\androidx\savedstate\R.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\androidx\swiperefreshlayout\R.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\androidx\transition\R.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\androidx\viewpager2\R.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\com\google\android\material\R.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc6414252951f3f66c67\CarouselViewAdapter_2.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\AccessibilityDelegateAutomationId.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ContainerView.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler_CustomLocalStateData.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EllipseView.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FlyoutPageContainer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FlyoutPageRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FlyoutPageRendererNonAppCompat.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\LineView.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PageContainer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PathView.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PolygonView.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PolylineView.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\RectView.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\RecyclerViewContainer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShapeView.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutLayout.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc644ccad03757948cca\MainActivity.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc64ee486da937c010f4\FrameRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc64ee486da937c010f4\ImageRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\crc64ee486da937c010f4\LabelRenderer.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\mono\androidx\activity\contextaware\OnContextAvailableListenerImplementor.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\mono\androidx\core\view\WindowInsetsControllerCompat_OnControllableInsetsChangedListenerImplementor.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\mono\androidx\fragment\app\FragmentOnAttachListenerImplementor.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\mono\android\app\ApplicationRegistration.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemReselectedListenerImplementor.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemSelectedListenerImplementor.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\mono\MonoPackageManager_Resources.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\bin\packaged_resources
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\src\com\companyname\app4\R.java
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\compressed_assemblies.armeabi-v7a.ll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\compressed_assemblies.arm64-v8a.ll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\typemaps.armeabi-v7a.o
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\typemaps.arm64-v8a.o
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\environment.armeabi-v7a.o
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\environment.arm64-v8a.o
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\compressed_assemblies.armeabi-v7a.o
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\compressed_assemblies.arm64-v8a.o
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\jni_remap.armeabi-v7a.o
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\jni_remap.arm64-v8a.o
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\app_shared_libraries\arm64-v8a\libxamarin-app.so
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\android\bin\classes.dex
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\stamp\_CleanIntermediateIfNeeded.stamp
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\stamp\_CompileJava.stamp
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\stamp\_CompileToDalvik.stamp
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\stamp\_ConvertCustomView.stamp
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\stamp\_ConvertResourcesCases.stamp
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\stamp\_GenerateJavaStubs.stamp
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\stamp\_GeneratePackageManagerJava.stamp
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\stamp\_ResolveLibraryProjectImports.stamp
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\lp\56\jl\files.cache
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\lp\64\jl\files.cache
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\lp\70\jl\files.cache
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\lp\76\jl\files.cache
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\lp\80\jl\files.cache
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\lp\86\jl\files.cache
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\lp\94\jl\files.cache
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\lp\100\jl\files.cache
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\lp\105\jl\files.cache
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4.Android\obj\Release\130\res\drawable\logo.png
+G:\FitnessApp\App4\App4.Android\bin\Release\App4.Android.dll
+G:\FitnessApp\App4\App4.Android\bin\Release\App4.Android.pdb
+G:\FitnessApp\App4\App4.Android\bin\Release\com.companyname.app4.apk
+G:\FitnessApp\App4\App4.Android\bin\Release\com.companyname.app4.aab
+G:\FitnessApp\App4\App4.Android\bin\Release\com.companyname.app4-Signed.aab
+G:\FitnessApp\App4\App4.Android\bin\Release\com.companyname.app4-Signed.apk
+G:\FitnessApp\App4\App4.Android\bin\Release\com.companyname.app4-Signed.apk.idsig
+G:\FitnessApp\App4\App4.Android\bin\Release\App4.dll
+G:\FitnessApp\App4\App4.Android\bin\Release\App4.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\MonoAndroid,Version=v13.0.AssemblyAttributes.cs
+G:\FitnessApp\App4\App4.Android\obj\Release\130\build.props
+G:\FitnessApp\App4\App4.Android\obj\Release\130\adb.props
+G:\FitnessApp\App4\App4.Android\obj\Release\130\App4.Android.csproj.AssemblyReference.cache
+G:\FitnessApp\App4\App4.Android\obj\Release\130\stamp\_BuildLibraryImportsCache.stamp
+G:\FitnessApp\App4\App4.Android\obj\Release\130\res.flag
+G:\FitnessApp\App4\App4.Android\obj\Release\130\lp\55\jl\files.cache
+G:\FitnessApp\App4\App4.Android\obj\Release\130\lp\56\jl\files.cache
+G:\FitnessApp\App4\App4.Android\obj\Release\130\lp\62\jl\files.cache
+G:\FitnessApp\App4\App4.Android\obj\Release\130\lp\63\jl\files.cache
+G:\FitnessApp\App4\App4.Android\obj\Release\130\lp\64\jl\files.cache
+G:\FitnessApp\App4\App4.Android\obj\Release\130\lp\68\jl\files.cache
+G:\FitnessApp\App4\App4.Android\obj\Release\130\lp\69\jl\files.cache
+G:\FitnessApp\App4\App4.Android\obj\Release\130\lp\70\jl\files.cache
+G:\FitnessApp\App4\App4.Android\obj\Release\130\lp\75\jl\files.cache
+G:\FitnessApp\App4\App4.Android\obj\Release\130\lp\76\jl\files.cache
+G:\FitnessApp\App4\App4.Android\obj\Release\130\lp\80\jl\files.cache
+G:\FitnessApp\App4\App4.Android\obj\Release\130\lp\86\jl\files.cache
+G:\FitnessApp\App4\App4.Android\obj\Release\130\lp\88\jl\files.cache
+G:\FitnessApp\App4\App4.Android\obj\Release\130\lp\89\jl\files.cache
+G:\FitnessApp\App4\App4.Android\obj\Release\130\lp\90\jl\files.cache
+G:\FitnessApp\App4\App4.Android\obj\Release\130\lp\91\jl\files.cache
+G:\FitnessApp\App4\App4.Android\obj\Release\130\lp\92\jl\files.cache
+G:\FitnessApp\App4\App4.Android\obj\Release\130\lp\93\jl\files.cache
+G:\FitnessApp\App4\App4.Android\obj\Release\130\lp\94\jl\files.cache
+G:\FitnessApp\App4\App4.Android\obj\Release\130\lp\96\jl\files.cache
+G:\FitnessApp\App4\App4.Android\obj\Release\130\lp\97\jl\files.cache
+G:\FitnessApp\App4\App4.Android\obj\Release\130\lp\98\jl\files.cache
+G:\FitnessApp\App4\App4.Android\obj\Release\130\lp\99\jl\files.cache
+G:\FitnessApp\App4\App4.Android\obj\Release\130\lp\100\jl\files.cache
+G:\FitnessApp\App4\App4.Android\obj\Release\130\lp\105\jl\files.cache
+G:\FitnessApp\App4\App4.Android\obj\Release\130\R.txt
+G:\FitnessApp\App4\App4.Android\obj\Release\130\R.cs.flag
+G:\FitnessApp\App4\App4.Android\obj\Release\130\App4.Android.csproj.CoreCompileInputs.cache
+G:\FitnessApp\App4\App4.Android\obj\Release\130\App4.Android.csproj.CopyComplete
+G:\FitnessApp\App4\App4.Android\obj\Release\130\App4.Android.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\App4.Android.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\bin\com.companyname.app4.apk
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\bin\base.zip
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\bin\com.companyname.app4.aab
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\bin\com.companyname.app4.apks
+G:\FitnessApp\App4\App4.Android\obj\Release\130\res\values\styles.xml
+G:\FitnessApp\App4\App4.Android\obj\Release\130\res\values\colors.xml
+G:\FitnessApp\App4\App4.Android\obj\Release\130\res\mipmap-anydpi-v26\icon.xml
+G:\FitnessApp\App4\App4.Android\obj\Release\130\res\mipmap-anydpi-v26\icon_round.xml
+G:\FitnessApp\App4\App4.Android\obj\Release\130\res\mipmap-hdpi\icon.png
+G:\FitnessApp\App4\App4.Android\obj\Release\130\res\mipmap-hdpi\launcher_foreground.png
+G:\FitnessApp\App4\App4.Android\obj\Release\130\res\mipmap-mdpi\icon.png
+G:\FitnessApp\App4\App4.Android\obj\Release\130\res\mipmap-mdpi\launcher_foreground.png
+G:\FitnessApp\App4\App4.Android\obj\Release\130\res\mipmap-xhdpi\icon.png
+G:\FitnessApp\App4\App4.Android\obj\Release\130\res\mipmap-xhdpi\launcher_foreground.png
+G:\FitnessApp\App4\App4.Android\obj\Release\130\res\mipmap-xxhdpi\icon.png
+G:\FitnessApp\App4\App4.Android\obj\Release\130\res\mipmap-xxhdpi\launcher_foreground.png
+G:\FitnessApp\App4\App4.Android\obj\Release\130\res\mipmap-xxxhdpi\icon.png
+G:\FitnessApp\App4\App4.Android\obj\Release\130\res\mipmap-xxxhdpi\launcher_foreground.png
+G:\FitnessApp\App4\App4.Android\obj\Release\130\res\drawable\heart.png
+G:\FitnessApp\App4\App4.Android\obj\Release\130\res\drawable\fire.jpg
+G:\FitnessApp\App4\App4.Android\obj\Release\130\res\drawable\background.png
+G:\FitnessApp\App4\App4.Android\obj\Release\130\res\drawable\steps.jpg
+G:\FitnessApp\App4\App4.Android\obj\Release\130\res\drawable\target.png
+G:\FitnessApp\App4\App4.Android\obj\Release\130\res\drawable\target2.png
+G:\FitnessApp\App4\App4.Android\obj\Release\130\res\drawable\treadmill.jpg
+G:\FitnessApp\App4\App4.Android\obj\Release\130\res\drawable\aaa.jpg
+G:\FitnessApp\App4\App4.Android\obj\Release\130\res\drawable\logo.png
+G:\FitnessApp\App4\App4.Android\obj\Release\130\uploadflags.txt
+G:\FitnessApp\App4\App4.Android\obj\Release\130\resolvedassemblies.hash
+G:\FitnessApp\App4\App4.Android\obj\Release\130\link.flag
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\App4.Android.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\App4.Android.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\App4.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\App4.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\CommunityToolkit.Mvvm.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\CommunityToolkit.Mvvm.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\FormsViewGroup.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\FormsViewGroup.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Google.Api.CommonProtos.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Google.Api.CommonProtos.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Google.Protobuf.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Google.Protobuf.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Java.Interop.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Java.Interop.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Mono.Android.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Mono.Android.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Mono.Security.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Mono.Security.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\mscorlib.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\mscorlib.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Newtonsoft.Json.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\SendGrid.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\SendGrid.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\SQLite-net.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\SQLitePCLRaw.batteries_v2.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\SQLitePCLRaw.core.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\SQLitePCLRaw.lib.e_sqlite3.android.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\StarkbankEcdsa.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\System.Buffers.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\System.ComponentModel.DataAnnotations.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\System.ComponentModel.DataAnnotations.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\System.Core.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\System.Core.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\System.Data.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\System.Data.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\System.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\System.Drawing.Common.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\System.Drawing.Common.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\System.Net.Http.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\System.Net.Http.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\System.Numerics.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\System.Numerics.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\System.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\System.Runtime.Serialization.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\System.Runtime.Serialization.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\System.ServiceModel.Internals.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\System.ServiceModel.Internals.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\System.Xml.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\System.Xml.Linq.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\System.Xml.Linq.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\System.Xml.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Activity.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Activity.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.AppCompat.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.AppCompat.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.CardView.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.CardView.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Core.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Core.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.CustomView.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.CustomView.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Fragment.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Fragment.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Loader.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.Loader.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.RecyclerView.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.SavedState.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.SavedState.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.ViewPager.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.AndroidX.ViewPager.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.Essentials.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.Essentials.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.Forms.Core.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.Forms.Core.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.Forms.Platform.Android.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.Forms.Platform.Android.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.Forms.Platform.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.Forms.Xaml.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.Forms.Xaml.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.Google.Android.Material.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.Google.Android.Material.pdb
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\typemaps.armeabi-v7a.ll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\typemaps.arm64-v8a.ll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\AndroidManifest.xml
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\AndroidManifest.xml
+G:\FitnessApp\App4\App4.Android\obj\Release\130\__environment__.txt
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\mono\MonoRuntimeProvider.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\assets\machine.config
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\bin\mono.android.jar
+G:\FitnessApp\App4\App4.Android\obj\Release\130\static.flag
+G:\FitnessApp\App4\App4.Android\obj\Release\130\buildid.txt
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\environment.armeabi-v7a.ll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\environment.arm64-v8a.ll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\androidx\annotation\experimental\R.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\androidx\appcompat\R.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\androidx\appcompat\resources\R.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\androidx\browser\R.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\androidx\cardview\R.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\androidx\constraintlayout\widget\R.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\androidx\coordinatorlayout\R.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\androidx\core\R.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\androidx\drawerlayout\R.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\androidx\fragment\R.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\androidx\lifecycle\runtime\R.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\androidx\lifecycle\viewmodel\R.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\androidx\media\R.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\androidx\navigation\common\R.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\androidx\navigation\R.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\androidx\navigation\ui\R.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\androidx\preference\R.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\androidx\recyclerview\R.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\androidx\savedstate\R.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\androidx\swiperefreshlayout\R.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\androidx\transition\R.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\androidx\viewpager2\R.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\com\google\android\material\R.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc6414252951f3f66c67\CarouselViewAdapter_2.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\AccessibilityDelegateAutomationId.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ContainerView.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler_CustomLocalStateData.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EllipseView.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FlyoutPageContainer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FlyoutPageRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FlyoutPageRendererNonAppCompat.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\LineView.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PageContainer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PathView.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PolygonView.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PolylineView.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\RectView.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\RecyclerViewContainer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShapeView.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutLayout.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc644ccad03757948cca\MainActivity.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc64ee486da937c010f4\FrameRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc64ee486da937c010f4\ImageRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\crc64ee486da937c010f4\LabelRenderer.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\mono\androidx\activity\contextaware\OnContextAvailableListenerImplementor.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\mono\androidx\core\view\WindowInsetsControllerCompat_OnControllableInsetsChangedListenerImplementor.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\mono\androidx\fragment\app\FragmentOnAttachListenerImplementor.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\mono\android\app\ApplicationRegistration.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemReselectedListenerImplementor.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemSelectedListenerImplementor.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\mono\MonoPackageManager_Resources.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\bin\packaged_resources
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\src\com\companyname\app4\R.java
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\compressed_assemblies.armeabi-v7a.ll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\compressed_assemblies.arm64-v8a.ll
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\typemaps.armeabi-v7a.o
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\typemaps.arm64-v8a.o
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\environment.armeabi-v7a.o
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\environment.arm64-v8a.o
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\compressed_assemblies.armeabi-v7a.o
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\compressed_assemblies.arm64-v8a.o
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\jni_remap.armeabi-v7a.o
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\jni_remap.arm64-v8a.o
+G:\FitnessApp\App4\App4.Android\obj\Release\130\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+G:\FitnessApp\App4\App4.Android\obj\Release\130\app_shared_libraries\arm64-v8a\libxamarin-app.so
+G:\FitnessApp\App4\App4.Android\obj\Release\130\android\bin\classes.dex
+G:\FitnessApp\App4\App4.Android\obj\Release\130\stamp\_CleanIntermediateIfNeeded.stamp
+G:\FitnessApp\App4\App4.Android\obj\Release\130\stamp\_CompileJava.stamp
+G:\FitnessApp\App4\App4.Android\obj\Release\130\stamp\_CompileToDalvik.stamp
+G:\FitnessApp\App4\App4.Android\obj\Release\130\stamp\_ConvertCustomView.stamp
+G:\FitnessApp\App4\App4.Android\obj\Release\130\stamp\_ConvertResourcesCases.stamp
+G:\FitnessApp\App4\App4.Android\obj\Release\130\stamp\_GenerateJavaStubs.stamp
+G:\FitnessApp\App4\App4.Android\obj\Release\130\stamp\_GeneratePackageManagerJava.stamp
+G:\FitnessApp\App4\App4.Android\obj\Release\130\stamp\_ResolveLibraryProjectImports.stamp

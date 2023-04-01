@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App4.MainPage">
+
+
+    <StackLayout   HorizontalOptions="Center" VerticalOptions="Center">
+
+
+
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="Center">
+
+        <Button Text = "View calories"
+                x:Name = "Button5"
+                Clicked = "NavigateTo5"
+                Margin="14"
+                BackgroundColor = "#2B3F4F"
+                TextColor = "WhiteSmoke"
+                HeightRequest = "50" />
+            
+
+        <Button Text = "View Steps"
+                x:Name = "Button6"
+                Clicked = "NavigateTo6"
+                Margin="14"
+                BackgroundColor = "#2B3F4F"
+                TextColor = "WhiteSmoke"
+                HeightRequest = "50" />
+        </StackLayout>
+        <StackLayout Orientation="Horizontal"  HorizontalOptions="Center" VerticalOptions="Center">
+            <Button Text = "View Targets"
+                x:Name = "Button8"
+                Clicked = "NavigateTo8"
+                Margin="14"
+                BackgroundColor = "#2B3F4F"
+                TextColor = "WhiteSmoke"
+                HeightRequest = "50" />
+
+            <Button Text = "Heart Rates"
+                x:Name = "Button7"
+                Clicked = "NavigateTo7"
+                Margin="14"
+                BackgroundColor = "#2B3F4F"
+                TextColor = "WhiteSmoke"
+                HeightRequest = "50" />
+        </StackLayout>
+
+        <Button Text = "start runnin"
+                x:Name = "Button11"
+                Clicked = "StartRunning"
+                TextColor = "WhiteSmoke"
+            Margin="10"
+                HeightRequest = "50" BackgroundColor="#C3350D" />
+        <Button Text = "runnin track or treadmile"
+            Margin="10"
+                x:Name = "Button51"
+                Clicked = "RunningTrack"
+                TextColor = "WhiteSmoke"
+                HeightRequest = "50" BackgroundColor="#C3350D" />
+
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="Center">
+        <Button Text = "Add calories record"
+                x:Name = "Button1"
+                Clicked = "NavigateTo"
+                Margin="14"
+                BackgroundColor = "#2196F3"
+                TextColor = "WhiteSmoke"
+                HeightRequest = "50" />
+        <Button Text = "add Steps Record"
+                x:Name = "Button2"
+                Clicked = "NavigateTo2"
+                Margin="14"
+                BackgroundColor = "#2196F3"
+                TextColor = "WhiteSmoke"
+                HeightRequest = "50" />
+        </StackLayout>
+            <Button Text = "Add new target"
+                x:Name = "Button4"
+                Clicked = "NavigateTo4"
+                Margin="14"
+                BackgroundColor = "#2196F3"
+                TextColor = "WhiteSmoke"
+                HeightRequest = "50" />
+
+ 
+
+    </StackLayout>
+   
+
+</ContentPage>

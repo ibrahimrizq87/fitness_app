@@ -1,0 +1,64 @@
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4\bin\Release\netstandard2.0\App4.deps.json
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4\bin\Release\netstandard2.0\App4.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4\bin\Release\netstandard2.0\App4.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4\bin\Release\netstandard2.0\Mono.Android.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4\bin\Release\netstandard2.0\Mono.Android.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4\bin\Release\netstandard2.0\Mono.Android.xml
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4\obj\Release\netstandard2.0\App4.csproj.AssemblyReference.cache
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4\obj\Release\netstandard2.0\App4.GeneratedMSBuildEditorConfig.editorconfig
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4\obj\Release\netstandard2.0\App.xaml.g.cs
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4\obj\Release\netstandard2.0\View\AddHeartRate.xaml.g.cs
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4\obj\Release\netstandard2.0\View\AddTarget.xaml.g.cs
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4\obj\Release\netstandard2.0\View\AddUserData.xaml.g.cs
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4\obj\Release\netstandard2.0\View\EnteryPage.xaml.g.cs
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4\obj\Release\netstandard2.0\View\MainPage.xaml.g.cs
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4\obj\Release\netstandard2.0\View\Page1.xaml.g.cs
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4\obj\Release\netstandard2.0\View\Page2.xaml.g.cs
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4\obj\Release\netstandard2.0\View\Running.xaml.g.cs
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4\obj\Release\netstandard2.0\View\RunningOnTreadmill.xaml.g.cs
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4\obj\Release\netstandard2.0\View\ViewCalories.xaml.g.cs
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4\obj\Release\netstandard2.0\View\ViewHeartRate.xaml.g.cs
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4\obj\Release\netstandard2.0\View\ViewSteps.xaml.g.cs
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4\obj\Release\netstandard2.0\View\ViewTarget.xaml.g.cs
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4\obj\Release\netstandard2.0\View\ViewUserHistory.xaml.g.cs
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4\obj\Release\netstandard2.0\App4.AssemblyInfoInputs.cache
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4\obj\Release\netstandard2.0\App4.AssemblyInfo.cs
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4\obj\Release\netstandard2.0\App4.csproj.CoreCompileInputs.cache
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4\obj\Release\netstandard2.0\XamlC.stamp
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4\obj\Release\netstandard2.0\App4.csproj.CopyComplete
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4\obj\Release\netstandard2.0\App4.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4\obj\Release\netstandard2.0\refint\App4.dll
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4\obj\Release\netstandard2.0\App4.pdb
+F:\college\fourth_year\second semester\network programming\projects\App4\App4\App4\obj\Release\netstandard2.0\ref\App4.dll
+G:\FitnessApp\App4\App4\bin\Release\netstandard2.0\App4.deps.json
+G:\FitnessApp\App4\App4\bin\Release\netstandard2.0\App4.dll
+G:\FitnessApp\App4\App4\bin\Release\netstandard2.0\App4.pdb
+G:\FitnessApp\App4\App4\bin\Release\netstandard2.0\Mono.Android.dll
+G:\FitnessApp\App4\App4\bin\Release\netstandard2.0\Mono.Android.pdb
+G:\FitnessApp\App4\App4\bin\Release\netstandard2.0\Mono.Android.xml
+G:\FitnessApp\App4\App4\obj\Release\netstandard2.0\App4.csproj.AssemblyReference.cache
+G:\FitnessApp\App4\App4\obj\Release\netstandard2.0\App4.GeneratedMSBuildEditorConfig.editorconfig
+G:\FitnessApp\App4\App4\obj\Release\netstandard2.0\App.xaml.g.cs
+G:\FitnessApp\App4\App4\obj\Release\netstandard2.0\View\AddHeartRate.xaml.g.cs
+G:\FitnessApp\App4\App4\obj\Release\netstandard2.0\View\AddTarget.xaml.g.cs
+G:\FitnessApp\App4\App4\obj\Release\netstandard2.0\View\AddUserData.xaml.g.cs
+G:\FitnessApp\App4\App4\obj\Release\netstandard2.0\View\EnteryPage.xaml.g.cs
+G:\FitnessApp\App4\App4\obj\Release\netstandard2.0\View\MainPage.xaml.g.cs
+G:\FitnessApp\App4\App4\obj\Release\netstandard2.0\View\Page1.xaml.g.cs
+G:\FitnessApp\App4\App4\obj\Release\netstandard2.0\View\Page2.xaml.g.cs
+G:\FitnessApp\App4\App4\obj\Release\netstandard2.0\View\Running.xaml.g.cs
+G:\FitnessApp\App4\App4\obj\Release\netstandard2.0\View\RunningOnTreadmill.xaml.g.cs
+G:\FitnessApp\App4\App4\obj\Release\netstandard2.0\View\ViewCalories.xaml.g.cs
+G:\FitnessApp\App4\App4\obj\Release\netstandard2.0\View\ViewHeartRate.xaml.g.cs
+G:\FitnessApp\App4\App4\obj\Release\netstandard2.0\View\ViewSteps.xaml.g.cs
+G:\FitnessApp\App4\App4\obj\Release\netstandard2.0\View\ViewTarget.xaml.g.cs
+G:\FitnessApp\App4\App4\obj\Release\netstandard2.0\View\ViewUserHistory.xaml.g.cs
+G:\FitnessApp\App4\App4\obj\Release\netstandard2.0\App4.AssemblyInfoInputs.cache
+G:\FitnessApp\App4\App4\obj\Release\netstandard2.0\App4.AssemblyInfo.cs
+G:\FitnessApp\App4\App4\obj\Release\netstandard2.0\App4.csproj.CoreCompileInputs.cache
+G:\FitnessApp\App4\App4\obj\Release\netstandard2.0\XamlC.stamp
+G:\FitnessApp\App4\App4\obj\Release\netstandard2.0\App4.csproj.CopyComplete
+G:\FitnessApp\App4\App4\obj\Release\netstandard2.0\App4.dll
+G:\FitnessApp\App4\App4\obj\Release\netstandard2.0\refint\App4.dll
+G:\FitnessApp\App4\App4\obj\Release\netstandard2.0\App4.pdb
+G:\FitnessApp\App4\App4\obj\Release\netstandard2.0\ref\App4.dll

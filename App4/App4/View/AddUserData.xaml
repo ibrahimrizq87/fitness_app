@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App4.View.AddUserData">
+    <ContentPage.Content>
+        <StackLayout>
+            
+            <Entry x:Name="nameUser" 
+               Placeholder=".."
+               Keyboard="Text"
+               Margin="16"
+                       Text=""
+               BackgroundColor = "#8BA3F3"
+               TextColor = "WhiteSmoke"
+               HeightRequest = "50"/>
+
+            <Label Text="Enter your Hight:"
+                Margin="16"/>
+            <Entry x:Name="HightEntery" 
+               Placeholder="Hight .." 
+               Keyboard="Numeric"
+               Margin="16"
+                       Text=""
+               BackgroundColor = "#8BA3F3"
+               TextColor = "WhiteSmoke"
+               HeightRequest = "50"/>
+
+            <Label Text="Enter your weight:"
+                Margin="16"/>
+            <Entry x:Name="weightEntery" 
+               Placeholder="weight .. " 
+               Keyboard="Numeric"
+               Margin="16"
+                       Text=""
+               BackgroundColor = "#8BA3F3"
+               TextColor = "WhiteSmoke"
+               HeightRequest = "50"/>
+            <Label Text="Enter your age:"
+                Margin="16"/>
+            <Entry x:Name="ageEntery" 
+               Placeholder="age .." 
+               Keyboard="Numeric"
+                       Text=""
+               Margin="16"
+               BackgroundColor = "#8BA3F3"
+               TextColor = "WhiteSmoke"
+               HeightRequest = "50"/>
+
+            <Button Text = "Add data "
+                x:Name = "Button55"
+                Clicked = "addUser"
+                Margin="16"
+                BackgroundColor = "#2196F3"
+                TextColor = "WhiteSmoke"
+                HeightRequest = "50" />
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App4.ViewTarget">
+    <ContentPage.Content>
+        <StackLayout>
+            <Image Source="target.png" WidthRequest="500" HeightRequest="50"/>
+            <ListView x:Name="myListTarget"
+                      Margin="20"
+                      HasUnevenRows="True"
+                      SeparatorColor="Gray"
+                      SeparatorVisibility="None"
+                       ItemTapped="targetItem"
+                      >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid Padding="10">
+                                <Frame CornerRadius="10" HasShadow="True">
+                                    <StackLayout Orientation="Horizontal">
+                                        <Image Source="target2.png" WidthRequest="60" HeightRequest="60"/>
+                                        <Label VerticalOptions="Center" Text="{Binding Id}" Margin="10"/>
+                                        <StackLayout Orientation="Vertical">
+                                            <StackLayout Orientation="Horizontal" BackgroundColor="#F6BFBF" >
+                                                <Label VerticalOptions="Center" Text="Day is: " FontSize="Large" TextColor="Black"/>
+                                                <Label VerticalOptions="Center" Text="{Binding day}" FontSize="Large"  TextColor="Black"/>
+                                            </StackLayout>
+                                            <StackLayout Orientation="Horizontal" BackgroundColor="#F6BFBF">
+                                                <Label VerticalOptions="Center" Text="no. Steps: " FontSize="Large" TextColor="Black"/>
+                                                <Label VerticalOptions="Center" Text="{Binding steps}" FontSize="Large" TextColor="Black"/>
+                                            </StackLayout>
+                                            <StackLayout Orientation="Horizontal" BackgroundColor="#F6BFBF">
+                                                <Label VerticalOptions="Center" Text="Calories: " FontSize="Large" TextColor="Black"/>
+                                                <Label VerticalOptions="Center" Text="{Binding calories}" FontSize="Large" TextColor="Black"/>
+                                            </StackLayout>
+                                            <StackLayout Orientation="Horizontal" BackgroundColor="#F6BFBF">
+                                                <Label VerticalOptions="Center" Text="Rate is: " FontSize="Large" TextColor="Black"/>
+                                                <Label VerticalOptions="Center" Text="{Binding heartRate}" FontSize="Large" TextColor="Black"/>
+                                            </StackLayout>
+                                        </StackLayout>
+                                    </StackLayout>
+                                </Frame>
+                            </Grid>
+
+                        </ViewCell>
+                    </DataTemplate>
+
+                </ListView.ItemTemplate>
+            </ListView>
+            <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+            <Button Text = "load"
+                x:Name = "LoadTarget"
+                Clicked = "Loadtarget"
+                Margin="20"
+                BackgroundColor = "#2B3F4F"
+                TextColor = "WhiteSmoke"
+                HeightRequest = "50" />
+                <Button Text = "Delete"
+                x:Name = "DeleteTarget"
+                Clicked = "Deletetarget"
+                Margin="20"
+                BackgroundColor = "#DC6841"
+                TextColor = "WhiteSmoke"
+                HeightRequest = "50" />
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

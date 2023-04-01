@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App4.AddHeartRate">
+    <ContentPage.Content>
+        <StackLayout>
+
+
+            <Label x:Name="t2"  Text=" "/>
+
+
+            <Label Text="Current Day:" 
+                Margin="20"/>
+            <Entry x:Name="boxHeart" 
+               Placeholder="Day"
+               Keyboard="Text"
+                   Text=""
+               Margin="20"
+               BackgroundColor = "#8BA3F3"
+               TextColor = "WhiteSmoke"
+               HeightRequest = "50"/>
+
+            <Label Text="Enter Heart Rate:"
+                Margin="20"/>
+            <Entry x:Name="boxHeart2" 
+               Placeholder="Heart Rate .." 
+               Keyboard="Numeric"
+               Margin="20"
+                       Text=""
+               BackgroundColor = "#8BA3F3"
+               TextColor = "WhiteSmoke"
+               HeightRequest = "50"/>
+
+
+            <Button Text = "Add data "
+                x:Name = "addHeart"
+                Clicked = "SendButton_ClickedHeart"
+                Margin="20"
+                BackgroundColor = "#2196F3"
+                TextColor = "WhiteSmoke"
+                HeightRequest = "50" />
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

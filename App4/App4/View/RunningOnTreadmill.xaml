@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App4.RunningOnTreadmill">
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame CornerRadius="10" HasShadow="True" Padding="10" Margin="3">
+                <Label x:Name="namename"
+                Text="Go .."
+                FontSize="Large"       
+                TextColor="White"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand"
+                       />
+            </Frame>
+            <Image Source="treadmill.jpg" WidthRequest="500" HeightRequest="200"/>
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+
+                <Frame CornerRadius="10" HasShadow="True" Padding="10" Margin="3">
+                    <Label x:Name="hight"
+                Text=".."
+                           TextColor="White"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand"
+                       />
+                </Frame>
+                <Frame CornerRadius="10" HasShadow="True" Padding="10" Margin="3">
+                    <Label x:Name="weight"
+                Text=".."
+                           TextColor="White"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand"
+                       />
+                </Frame>
+
+            </StackLayout>
+
+            <Frame CornerRadius="10" HasShadow="True" Padding="10" Margin="10">
+                <Label x:Name="noOfSteps"
+                   FontSize="Large"
+                Text="Welcome to Xamarin.Forms!"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            </Frame>
+            <Frame CornerRadius="10" HasShadow="True" Padding="10" Margin="5">
+                <Label x:Name="noOfCalories"
+                   FontSize="Large"
+                Text=".."
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand"
+                       />
+            </Frame>
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="Center" >
+                <StackLayout Orientation="Vertical" >
+                    <Frame CornerRadius="10" HasShadow="True" Padding="10" Margin="3">
+                        <Label x:Name="speedXText"
+                Text="fastest acceleration:"
+                           TextColor="White"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand"
+                       />
+                    </Frame>
+                    <Frame CornerRadius="10" HasShadow="True" Padding="10" Margin="3">
+                        <Label x:Name="speedX"
+                Text=".."
+                           TextColor="White"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand"
+                       />
+                    </Frame>
+
+
+
+                </StackLayout>
+
+                <StackLayout Orientation="Vertical" >
+
+                    <Frame CornerRadius="10" HasShadow="True" Padding="10" Margin="3">
+                        <Label x:Name="speedYText"
+                Text="fastest acceleration:"
+                           TextColor="White"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand"
+                       />
+                    </Frame>
+                    <Frame CornerRadius="10" HasShadow="True" Padding="10" Margin="3">
+                        <Label x:Name="speedY"
+                Text=".."
+                           TextColor="White"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand"
+                       />
+                    </Frame>
+
+
+
+                </StackLayout>
+
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" >
+
+                <Frame CornerRadius="10" HasShadow="True" Padding="10" Margin="3">
+                    <Label x:Name="stepText"
+                Text=""
+                           TextColor="White"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand"
+                       />
+                </Frame>
+                <Frame CornerRadius="10" HasShadow="True" Padding="10" Margin="3">
+                    <Label x:Name="distanceMade"
+                Text=".."
+                           TextColor="White"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand"
+                       />
+                </Frame>
+
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                <Button Text = "Done running"
+                    x:Name = "Button199"
+                Clicked = "DoneRunningTread"
+                BackgroundColor = "#CA6223"
+                TextColor = "WhiteSmoke"
+                HeightRequest = "50" />
+                <Button Text = "update my info"
+                    x:Name = "Button99"
+                Clicked = "updateRunningTread"
+                BackgroundColor = "#D4804D"
+                TextColor = "WhiteSmoke"
+                HeightRequest = "50" />
+              
+            </StackLayout>
+            <Button Text = "view info history "
+                    x:Name = "Button999"
+                Clicked = "ViewRunningTread"
+                BackgroundColor = "#D4804D"
+                TextColor = "WhiteSmoke"
+                HeightRequest = "50" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

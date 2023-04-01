@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App4.EnteryPage">
+    <ContentPage.Content>
+        <StackLayout>
+
+            <Label x:Name="t1" Text=""/>
+
+            <Label Text="Enter your name:" 
+                Margin="10"/>
+            <Entry x:Name="nameEntery" 
+               Placeholder="name Entery"
+               Keyboard="Text"
+                   Text=""
+               Margin="10"
+               BackgroundColor = "#8BA3F3"
+               TextColor = "WhiteSmoke"
+               HeightRequest = "50"/>
+            
+            <Label Text="Enter your age:" 
+                Margin="10"/>
+            <Entry x:Name="ageEntery" 
+               Placeholder="age Entery"
+               Keyboard="Numeric"
+               Margin="10"
+                   Text=""
+               BackgroundColor = "#8BA3F3"
+               TextColor = "WhiteSmoke"
+               HeightRequest = "50"/>
+
+            <Label Text="Enter your Hight in cm:" 
+                Margin="10"/>
+            <Entry x:Name="hightEntery" 
+               Placeholder="hight Entery"
+               Keyboard="Numeric"
+               Margin="10"
+                   Text=""
+               BackgroundColor = "#8BA3F3"
+               TextColor = "WhiteSmoke"
+               HeightRequest = "50"/>
+            
+            <Label Text="Enter your weight in Kg:" 
+                Margin="10"/>
+            <Entry x:Name="weightEntery" 
+               Placeholder="weight Entery"
+               Keyboard="Numeric"
+               Margin="10"
+                   Text=""
+               BackgroundColor = "#8BA3F3"
+               TextColor = "WhiteSmoke"
+               HeightRequest = "50"/>
+            
+            <Button Text = "Let`s go"
+                x:Name = "userData"
+                Clicked = "saveDataUser"
+                Margin="20"
+                BackgroundColor = "#EB8343"
+                TextColor = "WhiteSmoke"
+                HeightRequest = "50" />
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

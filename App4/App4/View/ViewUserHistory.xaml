@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App4.View.ViewUserHistory">
+    <ContentPage.Content>
+        <StackLayout>
+           
+            <ListView x:Name="userList"
+                      Margin="20"
+                      HasUnevenRows="True"
+                      SeparatorColor="Gray"
+                      SeparatorVisibility="None"
+                       ItemTapped="userItem"
+                      >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid Padding="10">
+                                <Frame CornerRadius="10" HasShadow="True">
+                                    <StackLayout Orientation="Horizontal">
+                                        <Image Source="aaa.jpg" WidthRequest="60" HeightRequest="60"/>
+                                        <StackLayout Orientation="Vertical">
+                                            <StackLayout Orientation="Horizontal" BackgroundColor="#F6BFBF" >
+                                                <Label VerticalOptions="Center" Text="age: " FontSize="Large" TextColor="Black"/>
+                                                <Label VerticalOptions="Center" Text="{Binding age}" FontSize="Large"  TextColor="Black"/>
+                                            </StackLayout>
+                                            <StackLayout Orientation="Horizontal" BackgroundColor="#F6BFBF">
+                                                <Label VerticalOptions="Center" Text="Hight: " FontSize="Large" TextColor="Black"/>
+                                                <Label VerticalOptions="Center" Text="{Binding hight}" FontSize="Large" TextColor="Black"/>
+                                            </StackLayout>
+                                            <StackLayout Orientation="Horizontal" BackgroundColor="#F6BFBF">
+                                                <Label VerticalOptions="Center" Text="weight: " FontSize="Large" TextColor="Black"/>
+                                                <Label VerticalOptions="Center" Text="{Binding weight}" FontSize="Large" TextColor="Black"/>
+                                            </StackLayout>
+                                            <StackLayout Orientation="Horizontal" BackgroundColor="#F6BFBF">
+                                                <Label VerticalOptions="Center" Text="state: " FontSize="Large" TextColor="Black"/>
+                                                <Label VerticalOptions="Center" Text="{Binding state}" FontSize="Large" TextColor="Black"/>
+                                            </StackLayout>
+                                        </StackLayout>
+                                    </StackLayout>
+                                </Frame>
+                            </Grid>
+
+                        </ViewCell>
+                    </DataTemplate>
+
+                </ListView.ItemTemplate>
+            </ListView>
+        
+                <Button Text = "Delete"
+                x:Name = "DeleteUserData"
+                Clicked = "DeleteUser"
+                Margin="20"
+                BackgroundColor = "#DC6841"
+                TextColor = "WhiteSmoke"
+                HeightRequest = "50" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
